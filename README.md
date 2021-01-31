@@ -1,7 +1,7 @@
 # 合成小嘤嘤
 
 合成大西瓜魔改版
-`https://npupa.stevexyh.com`
+[`https://npupa.stevexyh.com`](https://npupa.stevexyh.com)
 
 ## Files  
 ```  
